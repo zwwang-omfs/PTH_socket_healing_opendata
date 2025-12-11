@@ -1,0 +1,33 @@
+﻿Control,Cyclophosphamide,Cyclophosphamide + Teriparatide,Teriparatide,,mg/cm3,,,
+487.9,443.1,494,508.1,,,,,
+477.9,431.4,452,460,,,,,
+497.4,400.9,479.6,468.1,,,,,
+477.7,408,496.8,470.1,,,,,
+474.5,445.5,482.9,452.5,,,,,
+481.6,452.6,488.3,461.2,,,,,
+,,,,,,,,
+Levene's Tests,medians,0.516577373,,,,,,
+,,,,,,,,
+ANOVA: Single Factor,,,,,,,,
+,,,,,,,,
+DESCRIPTION,,,,,Alpha,0.05,,
+Group,Count,Sum,Mean,Variance,SS,Std Err,Lower,Upper
+Control,6,2897,482.8333333,71.90266667,359.5133333,6.989469261,468.2535559,497.4131107
+Cyclophosphamide,6,2581.5,430.25,451.003,2255.015,6.989469261,415.6702226,444.8297774
+Cyclophosphamide + Teriparatide,6,2893.6,482.2666667,261.7746667,1308.873333,6.989469261,467.6868893,496.8464441
+Teriparatide,6,2820,470,387.784,1938.92,6.989469261,455.4202226,484.5797774
+,,,,,,,,
+ANOVA,,,,,,,,
+Sources,SS,df,MS,F,P value,Eta-sq,RMSSE,Omega Sq
+Between Groups,11049.43458,3,3683.144861,12.56548197,7.669E-05,0.653358198,1.447151338,0.59111664
+Within Groups,5862.321667,20,293.1160833,,,,,
+Total,16911.75625,23,735.29375,,,,,
+,,,,,,,,
+Tukey's HSD,,,,,,,,
+group1,group2,meandiff,p-adj,lower,upper,reject,,
+Control,Cyclophosphamide,-52.5833,0.0002,-80.2497,-24.917,TRUE,,
+Cyclophosphamide,Cyclophosphamide + Teriparatide,52.0167,0.0002,24.3503,79.683,TRUE,,
+Cyclophosphamide,Teriparatide,39.75,0.0034,12.0836,67.4164,TRUE,,
+Control,Teriparatide,-12.8333,0.5745,-40.4997,14.833,FALSE,,
+Cyclophosphamide + Teriparatide,Teriparatide,-12.2667,0.6091,-39.933,15.3997,FALSE,,
+Control,Cyclophosphamide + Teriparatide,-0.5667,0.9999,-28.233,27.0997,FALSE,,

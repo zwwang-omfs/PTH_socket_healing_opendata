@@ -1,0 +1,31 @@
+﻿Control,Cyclophosphamide,Cyclophosphamide + Teriparatide,Teriparatide,,10000/ul,,,
+726,693,782,859,,,,,
+811,738,811,818,,,,,
+855,769,1001,840,,,,,
+,,,,,,,,
+,,,,,,,,
+Levene's Tests,medians,0.622884453,,,,,,
+,,,,,,,,
+ANOVA: Single Factor,,,,,,,,
+,,,,,,,,
+DESCRIPTION,,,,,Alpha,0.05,,
+Group,Count,Sum,Mean,Variance,SS,Std Err,Lower,Upper
+Ctrl,3,2392,797.3333333,4300.333333,8600.666667,41.16228047,702.4129444,892.2537223
+Cy,3,2200,733.3333333,1460.333333,2920.666667,41.16228047,638.4129444,828.2537223
+Cy+iPTH,3,2594,864.6666667,14150.33333,28300.66667,41.16228047,769.7462777,959.5870556
+iPTH,3,2517,839,421,842,41.16228047,744.079611,933.920389
+,,,,,,,,
+ANOVA,,,,,,,,
+Sources,SS,df,MS,F,P value,Eta-sq,RMSSE,Omega Sq
+Between Groups,29578.91667,3,9859.638889,1.939728288,0.201785315,0.421094654,0.804099556,0.190238862
+Within Groups,40664,8,5083,,,,,
+Total,70242.91667,11,6385.719697,,,,,
+,,,,,,,,
+Tukey‘s HSD,,,,,,,,
+group1,group2,meandiff,p-adj,lower,upper,reject,,
+Cyclophosphamide,Cyclophosphamide + Teriparatide,131.3333,0.188,-55.0828,317.7495,FALSE,,
+Cyclophosphamide,Teriparatide,105.6667,0.3334,-80.7495,292.0828,FALSE,,
+Control,Cyclophosphamide + Teriparatide,67.3333,0.6679,-119.0828,253.7495,FALSE,,
+Control,Cyclophosphamide,-64,0.6998,-250.4161,122.4161,FALSE,,
+Control,Teriparatide,41.6667,0.8881,-144.7495,228.0828,FALSE,,
+Cyclophosphamide + Teriparatide,Teriparatide,-25.6667,0.9696,-212.0828,160.7495,FALSE,,
