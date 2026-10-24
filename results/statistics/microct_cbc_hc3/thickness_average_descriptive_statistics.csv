@@ -1,0 +1,5 @@
+group,n,mean,sd,median,minimum,maximum,endpoint
+Control,6,272.92176666666666,40.85877374849454,266.34209999999996,226.1104,332.4964,thickness_average
+Cyclophosphamide,6,203.7913,48.46460577497768,193.7638,141.8648,269.6974,thickness_average
+Cyclophosphamide + Teriparatide,6,346.2102,36.821960737798854,347.811,284.8106,391.1636,thickness_average
+Teriparatide,6,407.1184,41.41806235699589,410.3808,359.9772,466.4518,thickness_average

@@ -1,0 +1,25 @@
+experimental_unit_id,concentration_um,teriparatide,value,concentration,technical_replicates_averaged,analysis_unit
+mc3t3_pcr_d3_runx2_EU_001,16,No,0.357285172,16,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_002,16,No,0.760178268,16,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_003,16,No,0.34515509,16,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_004,16,Yes,0.086480461,16,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_005,16,Yes,0.195357636,16,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_006,16,Yes,-0.181476593,16,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_007,8,No,-0.074735008,8,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_008,8,No,0.351912171,8,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_009,8,No,0.158461884,8,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_010,8,Yes,-0.341855377,8,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_011,8,Yes,0.106871285,8,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_012,8,Yes,0.036147434,8,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_013,4,No,0.055231731,4,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_014,4,No,0.184945419,4,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_015,4,No,-0.117610931,4,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_016,4,Yes,0.11460495,4,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_017,4,Yes,0.090103783,4,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_018,4,Yes,-0.233338669,4,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_019,0,No,0.0,0,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_020,0,No,0.0,0,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_021,0,No,0.0,0,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_022,0,Yes,-0.017800013,0,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_023,0,Yes,0.199194595,0,1,independent experimental observation
+mc3t3_pcr_d3_runx2_EU_024,0,Yes,0.233524963,0,1,independent experimental observation

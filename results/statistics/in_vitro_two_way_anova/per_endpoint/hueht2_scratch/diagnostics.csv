@@ -1,0 +1,6 @@
+endpoint,diagnostic,statistic,p_value,flag,decision_note
+hueht2_scratch,Shapiro-Wilk residual normality,0.9862590195079565,0.6235984459423439,False,Normality flag; inspect residual and Q-Q plots.
+hueht2_scratch,Brown-Forsythe equal variance across cells,1.4769666460264512,0.19145642141006164,False,Classical covariance retained.
+hueht2_scratch,Maximum absolute externally studentized residual,2.7399690249832056,,False,Flag threshold: absolute value > 3.
+hueht2_scratch,Maximum Cook's distance,0.10647715042812415,,True,Flag threshold: 4/n = 0.0555556.
+hueht2_scratch,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.

@@ -1,0 +1,37 @@
+timepoint,group,mouse_id,root,value
+,C,1,m,11
+,C,1,d,17
+,C,1,p,20
+,C,2,m,6
+,C,2,d,10
+,C,2,p,23
+,C,3,m,13
+,C,3,d,15
+,C,3,p,23
+,Cy,1,m,1
+,Cy,1,d,2
+,Cy,1,p,3
+,Cy,2,m,2
+,Cy,2,d,2
+,Cy,2,p,4
+,Cy,3,m,1
+,Cy,3,d,1
+,Cy,3,p,3
+,Cy + iPTH,1,m,3
+,Cy + iPTH,1,d,5
+,Cy + iPTH,1,p,6
+,Cy + iPTH,2,m,3
+,Cy + iPTH,2,d,2
+,Cy + iPTH,2,p,8
+,Cy + iPTH,3,m,2
+,Cy + iPTH,3,d,3
+,Cy + iPTH,3,p,6
+,iPTH,1,m,18
+,iPTH,1,d,13
+,iPTH,1,p,24
+,iPTH,2,m,14
+,iPTH,2,d,9
+,iPTH,2,p,21
+,iPTH,3,m,6
+,iPTH,3,d,8
+,iPTH,3,p,12

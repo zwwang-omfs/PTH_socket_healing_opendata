@@ -1,0 +1,3 @@
+endpoint,test,statistic,p_value
+WBC,Shapiro-Wilk test of model residuals,0.9620594048807496,0.8127790923934687
+WBC,Levene test across four groups (median centered),1.3993993993993987,0.3120450859847316

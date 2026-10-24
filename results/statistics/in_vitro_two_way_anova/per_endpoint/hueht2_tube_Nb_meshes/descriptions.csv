@@ -1,0 +1,7 @@
+endpoint,concentration_um,teriparatide,n,mean,sd,median,minimum,maximum
+hueht2_tube_Nb_meshes,0,No,5,1.8,1.3038404810405297,2.0,0,3
+hueht2_tube_Nb_meshes,0,Yes,5,6.2,4.919349550499537,6.0,0,12
+hueht2_tube_Nb_meshes,4,No,5,3.6,1.816590212458495,3.0,2,6
+hueht2_tube_Nb_meshes,4,Yes,5,6.2,4.711687595755898,6.0,2,14
+hueht2_tube_Nb_meshes,8,No,5,3.6,1.5165750888103102,3.0,2,6
+hueht2_tube_Nb_meshes,8,Yes,5,5.6,1.8165902124584952,6.0,3,8

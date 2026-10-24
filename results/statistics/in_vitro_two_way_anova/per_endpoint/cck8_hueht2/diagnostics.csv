@@ -1,0 +1,6 @@
+endpoint,diagnostic,statistic,p_value,flag,decision_note
+cck8_hueht2,Shapiro-Wilk residual normality,0.9856779693992562,0.8003245954461007,False,Normality flag; inspect residual and Q-Q plots.
+cck8_hueht2,Brown-Forsythe equal variance across cells,0.6193710171780925,0.7733436014722483,False,Classical covariance retained.
+cck8_hueht2,Maximum absolute externally studentized residual,2.493169828634554,,False,Flag threshold: absolute value > 3.
+cck8_hueht2,Maximum Cook's distance,0.1374714729235025,,True,Flag threshold: 4/n = 0.08.
+cck8_hueht2,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.

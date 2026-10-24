@@ -1,0 +1,61 @@
+endpoint,diagnostic,statistic,p_value,flag,decision_note
+cck8_hueht2,Shapiro-Wilk residual normality,0.9856779693992562,0.8003245954461007,False,Normality flag; inspect residual and Q-Q plots.
+cck8_hueht2,Brown-Forsythe equal variance across cells,0.6193710171780925,0.7733436014722483,False,Classical covariance retained.
+cck8_hueht2,Maximum absolute externally studentized residual,2.493169828634554,,False,Flag threshold: absolute value > 3.
+cck8_hueht2,Maximum Cook's distance,0.1374714729235025,,True,Flag threshold: 4/n = 0.08.
+cck8_hueht2,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.
+cck8_mc3t3,Shapiro-Wilk residual normality,0.9681799866149962,0.19497978829286178,False,Normality flag; inspect residual and Q-Q plots.
+cck8_mc3t3,Brown-Forsythe equal variance across cells,1.1331785528521896,0.3629819252186136,False,Classical covariance retained.
+cck8_mc3t3,Maximum absolute externally studentized residual,3.748458681924404,,True,Flag threshold: absolute value > 3.
+cck8_mc3t3,Maximum Cook's distance,0.2648575469270502,,True,Flag threshold: 4/n = 0.08.
+cck8_mc3t3,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.
+hueht2_scratch,Shapiro-Wilk residual normality,0.9862590195079565,0.6235984459423439,False,Normality flag; inspect residual and Q-Q plots.
+hueht2_scratch,Brown-Forsythe equal variance across cells,1.4769666460264512,0.19145642141006164,False,Classical covariance retained.
+hueht2_scratch,Maximum absolute externally studentized residual,2.7399690249832056,,False,Flag threshold: absolute value > 3.
+hueht2_scratch,Maximum Cook's distance,0.10647715042812415,,True,Flag threshold: 4/n = 0.0555556.
+hueht2_scratch,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.
+hueht2_tube_Nb_extrem,Shapiro-Wilk residual normality,0.9488510211512658,0.1574813735666219,False,Normality flag; inspect residual and Q-Q plots.
+hueht2_tube_Nb_extrem,Brown-Forsythe equal variance across cells,0.3427451834113421,0.8817963492073508,False,Classical covariance retained.
+hueht2_tube_Nb_extrem,Maximum absolute externally studentized residual,4.283350186214041,,True,Flag threshold: absolute value > 3.
+hueht2_tube_Nb_extrem,Maximum Cook's distance,0.4437335092348292,,True,Flag threshold: 4/n = 0.133333.
+hueht2_tube_Nb_extrem,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.
+hueht2_tube_nb_iso_seg,Shapiro-Wilk residual normality,0.9444506804811986,0.11989557403427992,False,Normality flag; inspect residual and Q-Q plots.
+hueht2_tube_nb_iso_seg,Brown-Forsythe equal variance across cells,0.28885976408912184,0.914481230764319,False,Classical covariance retained.
+hueht2_tube_nb_iso_seg,Maximum absolute externally studentized residual,3.78972100214066,,True,Flag threshold: absolute value > 3.
+hueht2_tube_nb_iso_seg,Maximum Cook's distance,0.38440102068224596,,True,Flag threshold: 4/n = 0.133333.
+hueht2_tube_nb_iso_seg,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.
+hueht2_tube_Nb_meshes,Shapiro-Wilk residual normality,0.9568628403164368,0.25700318784856746,False,Normality flag; inspect residual and Q-Q plots.
+hueht2_tube_Nb_meshes,Brown-Forsythe equal variance across cells,1.9405405405405403,0.12468153465643714,False,Classical covariance retained.
+hueht2_tube_Nb_meshes,Maximum absolute externally studentized residual,3.392838401480204,,True,Flag threshold: absolute value > 3.
+hueht2_tube_Nb_meshes,Maximum Cook's distance,0.3335526315789473,,True,Flag threshold: 4/n = 0.133333.
+hueht2_tube_Nb_meshes,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.
+hueht2_tube_Nb_nodes,Shapiro-Wilk residual normality,0.9687589122579973,0.5057992749414697,False,Normality flag; inspect residual and Q-Q plots.
+hueht2_tube_Nb_nodes,Brown-Forsythe equal variance across cells,1.1209091775469362,0.3759139131245436,False,Classical covariance retained.
+hueht2_tube_Nb_nodes,Maximum absolute externally studentized residual,2.683384581590622,,False,Flag threshold: absolute value > 3.
+hueht2_tube_Nb_nodes,Maximum Cook's distance,0.23842453670867667,,True,Flag threshold: 4/n = 0.133333.
+hueht2_tube_Nb_nodes,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.
+hueht2_tube_tot_branching_length_new,Shapiro-Wilk residual normality,0.9747879768805446,0.6764814624379545,False,Normality flag; inspect residual and Q-Q plots.
+hueht2_tube_tot_branching_length_new,Brown-Forsythe equal variance across cells,1.211340786227459,0.33398053600249816,False,Classical covariance retained.
+hueht2_tube_tot_branching_length_new,Maximum absolute externally studentized residual,2.278229213493922,,False,Flag threshold: absolute value > 3.
+hueht2_tube_tot_branching_length_new,Maximum Cook's distance,0.18411734283191733,,True,Flag threshold: 4/n = 0.133333.
+hueht2_tube_tot_branching_length_new,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.
+mc3t3_pcr_d3_alp,Shapiro-Wilk residual normality,0.9631605547725685,0.5051303051513993,False,Normality flag; inspect residual and Q-Q plots.
+mc3t3_pcr_d3_alp,Brown-Forsythe equal variance across cells,0.7635934109715647,0.6251417789800917,False,Classical covariance retained.
+mc3t3_pcr_d3_alp,Maximum absolute externally studentized residual,2.1895503895966093,,False,Flag threshold: absolute value > 3.
+mc3t3_pcr_d3_alp,Maximum Cook's distance,0.2421996161753153,,True,Flag threshold: 4/n = 0.166667.
+mc3t3_pcr_d3_alp,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.
+mc3t3_pcr_d3_col1,Shapiro-Wilk residual normality,0.934313601540345,0.12174228795212166,False,Normality flag; inspect residual and Q-Q plots.
+mc3t3_pcr_d3_col1,Brown-Forsythe equal variance across cells,0.3713581379823684,0.9058542819437689,False,Classical covariance retained.
+mc3t3_pcr_d3_col1,Maximum absolute externally studentized residual,1.8685468308756137,,False,Flag threshold: absolute value > 3.
+mc3t3_pcr_d3_col1,Maximum Cook's distance,0.18881504697486157,,True,Flag threshold: 4/n = 0.166667.
+mc3t3_pcr_d3_col1,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.
+mc3t3_pcr_d3_runx2,Shapiro-Wilk residual normality,0.9470337279826526,0.23347183098629942,False,Normality flag; inspect residual and Q-Q plots.
+mc3t3_pcr_d3_runx2,Brown-Forsythe equal variance across cells,0.312733373503293,0.9375544252144852,False,Classical covariance retained.
+mc3t3_pcr_d3_runx2,Maximum absolute externally studentized residual,1.9723895596232301,,False,Flag threshold: absolute value > 3.
+mc3t3_pcr_d3_runx2,Maximum Cook's distance,0.20594253863948025,,True,Flag threshold: 4/n = 0.166667.
+mc3t3_pcr_d3_runx2,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.
+mc3t3_scratch,Shapiro-Wilk residual normality,0.9877276374917167,0.712649955025325,False,Normality flag; inspect residual and Q-Q plots.
+mc3t3_scratch,Brown-Forsythe equal variance across cells,1.2293168737439266,0.30008857411721107,False,Classical covariance retained.
+mc3t3_scratch,Maximum absolute externally studentized residual,2.42378865955669,,False,Flag threshold: absolute value > 3.
+mc3t3_scratch,Maximum Cook's distance,0.08529615484825377,,True,Flag threshold: 4/n = 0.0555556.
+mc3t3_scratch,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.

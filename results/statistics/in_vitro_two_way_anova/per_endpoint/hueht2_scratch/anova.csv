@@ -1,0 +1,6 @@
+endpoint,term,sum_squares,df,f_value,p_value,covariance_method
+hueht2_scratch,Intercept,89.61138035384003,1.0,7155.695885339522,2.109514886747729e-67,classical
+hueht2_scratch,4-HC concentration,0.3088327357039248,3.0,8.220358944770355,0.00010439782819884952,classical
+hueht2_scratch,teriparatide,0.45022646016571494,1.0,35.95172416447136,1.0294985405805633e-07,classical
+hueht2_scratch,4-HC concentration x teriparatide,0.04769004207846407,3.0,1.2693902512718465,0.29240267310309825,classical
+hueht2_scratch,Residual,0.8014773733461484,64.0,,,classical

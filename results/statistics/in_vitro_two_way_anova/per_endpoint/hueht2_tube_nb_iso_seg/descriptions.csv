@@ -1,0 +1,7 @@
+endpoint,concentration_um,teriparatide,n,mean,sd,median,minimum,maximum
+hueht2_tube_nb_iso_seg,0,No,5,35.8,4.54972526643093,34.0,31,42
+hueht2_tube_nb_iso_seg,0,Yes,5,36.6,12.177848742696717,31.0,29,58
+hueht2_tube_nb_iso_seg,4,No,5,36.6,8.35463942968217,36.0,24,47
+hueht2_tube_nb_iso_seg,4,Yes,5,40.4,8.502940667792524,37.0,32,50
+hueht2_tube_nb_iso_seg,8,No,5,39.0,4.47213595499958,40.0,33,44
+hueht2_tube_nb_iso_seg,8,Yes,5,39.2,6.418722614352485,37.0,33,47

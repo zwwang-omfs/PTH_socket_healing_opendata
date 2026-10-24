@@ -1,0 +1,25 @@
+experimental_unit_id,concentration_um,teriparatide,value,concentration,technical_replicates_averaged,analysis_unit
+mc3t3_pcr_d3_alp_EU_001,16,No,1.704165816,16,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_002,16,No,1.233771682,16,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_003,16,No,0.825417817,16,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_004,16,Yes,0.348469406,16,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_005,16,Yes,1.021576524,16,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_006,16,Yes,0.564669311,16,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_007,8,No,0.642494202,8,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_008,8,No,1.847949982,8,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_009,8,No,1.474032044,8,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_010,8,Yes,0.215215042,8,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_011,8,Yes,1.14675653,8,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_012,8,Yes,0.702079773,8,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_013,4,No,0.501495361,4,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_014,4,No,1.09103334,4,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_015,4,No,0.627600968,4,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_016,4,Yes,-0.148105621,4,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_017,4,Yes,1.059151292,4,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_018,4,Yes,0.532353103,4,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_019,0,No,0.0,0,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_020,0,No,0.0,0,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_021,0,No,0.0,0,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_022,0,Yes,0.123703636,0,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_023,0,Yes,0.594623566,0,1,independent experimental observation
+mc3t3_pcr_d3_alp_EU_024,0,Yes,0.333349228,0,1,independent experimental observation

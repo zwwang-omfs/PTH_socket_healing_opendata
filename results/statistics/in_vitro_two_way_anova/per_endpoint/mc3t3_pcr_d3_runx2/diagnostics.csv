@@ -1,0 +1,6 @@
+endpoint,diagnostic,statistic,p_value,flag,decision_note
+mc3t3_pcr_d3_runx2,Shapiro-Wilk residual normality,0.9470337279826526,0.23347183098629942,False,Normality flag; inspect residual and Q-Q plots.
+mc3t3_pcr_d3_runx2,Brown-Forsythe equal variance across cells,0.312733373503293,0.9375544252144852,False,Classical covariance retained.
+mc3t3_pcr_d3_runx2,Maximum absolute externally studentized residual,1.9723895596232301,,False,Flag threshold: absolute value > 3.
+mc3t3_pcr_d3_runx2,Maximum Cook's distance,0.20594253863948025,,True,Flag threshold: 4/n = 0.166667.
+mc3t3_pcr_d3_runx2,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.

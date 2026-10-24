@@ -1,0 +1,6 @@
+endpoint,diagnostic,statistic,p_value,flag,decision_note
+hueht2_tube_tot_branching_length_new,Shapiro-Wilk residual normality,0.9747879768805446,0.6764814624379545,False,Normality flag; inspect residual and Q-Q plots.
+hueht2_tube_tot_branching_length_new,Brown-Forsythe equal variance across cells,1.211340786227459,0.33398053600249816,False,Classical covariance retained.
+hueht2_tube_tot_branching_length_new,Maximum absolute externally studentized residual,2.278229213493922,,False,Flag threshold: absolute value > 3.
+hueht2_tube_tot_branching_length_new,Maximum Cook's distance,0.18411734283191733,,True,Flag threshold: 4/n = 0.133333.
+hueht2_tube_tot_branching_length_new,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.

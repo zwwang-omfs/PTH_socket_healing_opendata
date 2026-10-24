@@ -1,0 +1,3 @@
+endpoint,test,statistic,p_value
+BV-TV,Shapiro-Wilk test of model residuals,0.9224021309552172,0.0660192959580128
+BV-TV,Levene test across four groups (median centered),3.397279086734475,0.03788724974544233

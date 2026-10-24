@@ -1,0 +1,6 @@
+endpoint,term,sum_squares,df,f_value,p_value,covariance_method
+mc3t3_scratch,Intercept,126998459199.62234,1.0,20414.712998963096,6.821608725449198e-82,classical
+mc3t3_scratch,4-HC concentration,83534860.53537607,3.0,4.476012842952619,0.006474231126683017,classical
+mc3t3_scratch,teriparatide,47321619.7065316,1.0,7.606842563628454,0.00757085667607068,classical
+mc3t3_scratch,4-HC concentration x teriparatide,18589028.316040095,3.0,0.9960479846060086,0.40048679186609115,classical
+mc3t3_scratch,Residual,398139390.4087049,64.0,,,classical

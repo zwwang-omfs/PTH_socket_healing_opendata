@@ -1,0 +1,6 @@
+endpoint,diagnostic,statistic,p_value,flag,decision_note
+hueht2_tube_Nb_meshes,Shapiro-Wilk residual normality,0.9568628403164368,0.25700318784856746,False,Normality flag; inspect residual and Q-Q plots.
+hueht2_tube_Nb_meshes,Brown-Forsythe equal variance across cells,1.9405405405405403,0.12468153465643714,False,Classical covariance retained.
+hueht2_tube_Nb_meshes,Maximum absolute externally studentized residual,3.392838401480204,,True,Flag threshold: absolute value > 3.
+hueht2_tube_Nb_meshes,Maximum Cook's distance,0.3335526315789473,,True,Flag threshold: 4/n = 0.133333.
+hueht2_tube_Nb_meshes,Batch effect,,,False,Not estimable/not applicable: source data contain no batch variable and each row was confirmed independent.

@@ -1,0 +1,5 @@
+group,n,mean,sd,median,minimum,maximum,endpoint
+Control,6,6.055e-08,5.883028981740613e-08,5.02e-08,-2.48e-08,1.39e-07,Conn.D
+Cyclophosphamide,6,-2.9618333333333334e-08,2.0968099977505513e-08,-2.89e-08,-6.2e-08,-1.51e-09,Conn.D
+Cyclophosphamide + Teriparatide,6,-6.955e-08,2.2583068879140406e-08,-6.855e-08,-9.62e-08,-3.71e-08,Conn.D
+Teriparatide,6,4.4083333333333334e-08,3.403547658938636e-08,4.175e-08,1.37e-08,1.07e-07,Conn.D

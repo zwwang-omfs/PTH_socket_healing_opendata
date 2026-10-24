@@ -1,0 +1,6 @@
+endpoint,term,sum_squares,df,f_value,p_value,covariance_method
+hueht2_tube_Nb_meshes,Intercept,607.4999999999998,1.0,63.947368421052616,3.1790609192729127e-08,classical
+hueht2_tube_Nb_meshes,4-HC concentration,4.2,2.0,0.2210526315789474,0.803288554735566,classical
+hueht2_tube_Nb_meshes,teriparatide,67.50000000000003,1.0,7.105263157894741,0.013531430264025202,classical
+hueht2_tube_Nb_meshes,4-HC concentration x teriparatide,7.800000000000041,2.0,0.4105263157894759,0.6678709519672887,classical
+hueht2_tube_Nb_meshes,Residual,227.99999999999997,24.0,,,classical

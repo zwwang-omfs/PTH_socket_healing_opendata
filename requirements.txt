@@ -1,0 +1,11 @@
+# Python 3.14. Versions with which the code in this repository was verified.
+# The statistics versions match those used for the manuscript results
+# (see results/statistics/in_vitro_two_way_anova/environment.json).
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.17.1
+statsmodels==0.14.6
+patsy==1.0.3
+matplotlib==3.11.2
+opencv-python-headless==5.0.0.93
+scikit-image==0.26.0

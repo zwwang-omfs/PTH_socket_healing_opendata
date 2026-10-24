@@ -1,0 +1,3 @@
+endpoint,concentration_um,baseline_mean_0uM_no_teriparatide,4HC_alone_mean,combined_treatment_mean,4HC_impairment_direction,rescue_change_toward_baseline,rescue_MVT_p,diagonal_MVT_p,classification,complete_rescue_statement
+hueht2_tube_Nb_meshes,4,1.8,3.6,6.2,1.0,False,0.3475773857548032,0.06059635048608687,no adjusted evidence of improvement,Not established: no prespecified equivalence margin or equivalence test; p>0.05 versus baseline is insufficient.
+hueht2_tube_Nb_meshes,8,1.8,3.6,5.6,1.0,False,0.5261868931066644,0.11188295005235661,no adjusted evidence of improvement,Not established: no prespecified equivalence margin or equivalence test; p>0.05 versus baseline is insufficient.

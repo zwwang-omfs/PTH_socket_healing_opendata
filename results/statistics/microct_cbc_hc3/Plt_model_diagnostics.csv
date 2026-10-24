@@ -1,0 +1,3 @@
+endpoint,test,statistic,p_value
+Plt,Shapiro-Wilk test of model residuals,0.9696256106008652,0.9068427416957667
+Plt,Levene test across four groups (median centered),0.7034792381628404,0.576134080157201

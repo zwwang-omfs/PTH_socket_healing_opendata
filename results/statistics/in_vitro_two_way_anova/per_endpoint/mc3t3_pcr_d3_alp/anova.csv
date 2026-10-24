@@ -1,0 +1,6 @@
+endpoint,term,sum_squares,df,f_value,p_value,covariance_method
+mc3t3_pcr_d3_alp,Intercept,11.263870248190676,1.0,63.11796442443277,6.067114944402914e-07,classical
+mc3t3_pcr_d3_alp,4-HC concentration,2.6258992060864896,3.0,4.90480947844537,0.013251326368142042,classical
+mc3t3_pcr_d3_alp,teriparatide,0.49712254089323477,1.0,2.7856644438640425,0.11455756103999813,classical
+mc3t3_pcr_d3_alp,4-HC concentration x teriparatide,0.9470230345783223,3.0,1.7689055031280059,0.19355738923465243,classical
+mc3t3_pcr_d3_alp,Residual,2.855319014395963,16.0,,,classical
